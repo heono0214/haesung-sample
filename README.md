@@ -1,1 +1,1 @@
-# haesung-smaple
+# haesung-sample
